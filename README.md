@@ -4,21 +4,4 @@
 [Untitled_ Jul 28, 2022 9_47 PM.webm](https://user-images.githubusercontent.com/105750913/181667381-4c522cca-1705-4d34-b588-d07f83ccfc53.webm)
 
 
-
-GIVEN a command-line application that accepts user input
-
-WHEN I am prompted for information about my application repository
-
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+![Screenshot 2022-07-28 221624](https://user-images.githubusercontent.com/105750913/181668942-ac3a4e89-d51a-4e45-857d-2917eb6b3563.png)
